@@ -1,0 +1,32 @@
+@charset "utf-8";
+.kogl_bg1 {width:100%; margin:15px 0; padding:15px 0; background-color:#fafafa; border:1px solid #ccc; overflow:hidden;}
+.kogl_bg1 img {float:left; margin:8px 8px 8px 20px;}
+.kogl_bg1 ul {display:block; font-size:0.7rem; color:#555; line-height:20px; padding-left:130px;}
+.kogl_bg1 ul li {background:url('/images/co/na/bu_atte2.png') no-repeat 0 3px; margin-top:12px; padding-left:20px; white-space:normal;}
+.kogl_bg1 ul li span {color:#000; white-space:normal;}
+
+.kogl_bg2 {width:100%; margin:15px 0; padding:15px 0; background-color:#fafafa; border:1px solid #ccc; overflow:hidden;}
+.kogl_bg2 img {float:left; margin:0 20px;}
+.kogl_bg2 ul {display:block; font-size:0.7rem; color:#555; line-height:20px; padding-left:150px;}
+.kogl_bg2 ul li {background:url('/images/co/na/bu_atte2.png') no-repeat 0 3px; margin-top:12px; padding-left:20px; white-space:normal;}
+.kogl_bg2 ul li span {color:#000; white-space:normal; padding-top:5px;}
+
+.kogl_bg3 {width:100%; margin:15px 0; padding:15px 0; background-color:#fafafa; border:1px solid #ccc; overflow:hidden;}
+.kogl_bg3 img {float:left; margin:8px 8px 8px 20px;}
+.kogl_bg3 ul {display:block; font-size:0.7rem; color:#555; line-height:20px; padding-left:150px;}
+.kogl_bg3 ul li {background:url('/images/co/na/bu_atte2.png') no-repeat 0 3px; margin-top:12px; padding-left:20px; white-space:normal;}
+.kogl_bg3 ul li span {color:#000; white-space:normal;}
+
+.kogl_bg4 {width:100%; margin:15px 0; padding:15px 0; background-color:#fafafa; border:1px solid #ccc; overflow:hidden;}
+.kogl_bg4 img {float:left; margin:8px 8px 8px 8px;}
+.kogl_bg4 ul {display:block; font-size:0.7rem; color:#555; line-height:20px; padding-left:142px;}
+.kogl_bg4 ul li {background:url('/images/co/na/bu_atte2.png') no-repeat 0 3px; margin-top:12px; padding-left:20px; white-space:normal;}
+.kogl_bg4 ul li span {color:#000; white-space:normal;}
+
+/* 인풋 정렬 */
+.input_kogl span{ display:inline-block;}
+.input_kogl0 { display:inline-block; width:50px}
+.input_kogl1 { display:inline-block; width:110px}
+.input_kogl2 { display:inline-block; width:130px}
+.input_kogl3 { display:inline-block; width:130px}
+.input_kogl4 { display:inline-block; width:150px}
